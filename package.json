@@ -1,0 +1,22 @@
+{
+    "name": "theme-dark-starry-night",
+    "displayName": "Starry Night",
+    "description": "Starry night - subtle low contrast dark theme.",
+    "version": "1.0.0",
+    "publisher": "jerry",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Starry Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/starry-night-dark-theme.tmTheme"
+            }
+        ]
+    }
+}
