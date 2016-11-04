@@ -138,7 +138,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>underline bold</string>
+				<string> bold   underline</string>
 				<key>foreground</key>
 				<string>#CCCCCC</string>
 			</dict>
@@ -151,7 +151,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic underline</string>
+				<string> underline</string>
 				<key>foreground</key>
 				<string>#808080</string>
 			</dict>
@@ -238,7 +238,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7F8C94</string>
+				<string>#949494</string>
 			</dict>
 		</dict>
 		<dict>
