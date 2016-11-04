@@ -1,4 +1,4 @@
-![](starry_night.jpg)
+![](https://raw.githubusercontent.com/JerryGoodwill/vscode-theme-starry-night/master/starry_night.jpg)
 # Starry Night
 
 Starry Night - subtle, low contrast dark theme for Visual Studio Code editor.
@@ -6,10 +6,10 @@ Starry Night - subtle, low contrast dark theme for Visual Studio Code editor.
 ## Screenshots
 
 ### JavaScript
-![](js.jpg)
+![](https://raw.githubusercontent.com/JerryGoodwill/vscode-theme-starry-night/master/js.jpg)
 
 ### HTML
-![](html.jpg)
+![](https://raw.githubusercontent.com/JerryGoodwill/vscode-theme-starry-night/master/html.jpg)
 
 ### CSS
-![](css.jpg)
+![](https://raw.githubusercontent.com/JerryGoodwill/vscode-theme-starry-night/master/css.jpg)
